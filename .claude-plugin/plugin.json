@@ -1,0 +1,20 @@
+{
+  "name": "intertree",
+  "version": "0.1.0",
+  "description": "Project hierarchy management — filesystem discovery, parent-child relationships, tagging, and layout orchestration",
+  "author": {
+    "name": "MK",
+    "email": "mistakeknot@vibeguider.org"
+  },
+  "repository": "https://github.com/mistakeknot/intertree",
+  "license": "MIT",
+  "keywords": [
+    "hierarchy",
+    "project-discovery",
+    "layout",
+    "organization"
+  ],
+  "skills": [
+    "./skills/layout"
+  ]
+}
