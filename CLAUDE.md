@@ -10,7 +10,7 @@ Project hierarchy management — filesystem discovery, parent-child relationship
 
 | Skill | What it does |
 |-------|-------------|
-| `layout` | Interactive project discovery, hierarchy review, classification, and registration |
+| `tree` | Project hierarchy visualization, parent-child relationships, signal analysis |
 
 ## Architecture
 

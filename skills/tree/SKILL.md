@@ -1,6 +1,6 @@
 ---
-name: layout
-description: Use when organizing projects — interactive project discovery, hierarchy review, classification, tagging, and Notion registration. Use when the user says "set up projects", "discover projects", "organize my projects", or "layout".
+name: tree
+description: Visualize project hierarchy — filesystem tree, parent-child relationships, signal analysis. For full interactive project layout and Notion registration, use /interkasten:layout instead.
 ---
 
 # Interactive Project Discovery & Layout
