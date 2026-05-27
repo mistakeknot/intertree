@@ -1,7 +1,7 @@
 {
   "name": "intertree",
   "version": "0.1.2",
-  "description": "Project hierarchy management — filesystem discovery, parent-child relationships, tagging, and layout orchestration",
+  "description": "Project hierarchy management \u2014 filesystem discovery, parent-child relationships, tagging, and layout orchestration",
   "author": {
     "name": "MK",
     "email": "mistakeknot@vibeguider.org"
@@ -16,5 +16,8 @@
   ],
   "skills": [
     "./skills/tree"
+  ],
+  "peerDependencies": [
+    "interkasten"
   ]
 }
